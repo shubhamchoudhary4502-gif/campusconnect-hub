@@ -1,0 +1,6 @@
+{
+  "name": "CampusConnect",
+  "description": "Centralized academic and extracurricular platform for college students with study resources, campus events, practice arena, and community upload portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
